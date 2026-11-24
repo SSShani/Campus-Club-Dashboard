@@ -7,5 +7,12 @@
 }
 
 /* the <h1> - big, centered, bold */
+
+
+
 .title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 24px 0;
 }
